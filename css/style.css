@@ -7,8 +7,8 @@ body {
   font-family: "PT Sans", sans-serif;
 }
 :root {
-  --subColor: #333;
   --mainColor: #7b5244;
+  --subColor: #333;
 }
 .container {
   width: 80%;
